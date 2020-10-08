@@ -1,0 +1,5 @@
+Bioinformatics is the development and applications of computational tools in managing all kinds of biological data.
+
+This often involves use of computer storage, retrievel, manipulation, and distribution of information related biological macromolecules (such as DNA, RNA, proteins, and metabolites).
+
+
